@@ -1,6 +1,6 @@
 # findmypet
 
-A new Flutter project.
+A Flutter project for bits API Hackathon.
 
 ## Getting Started
 
